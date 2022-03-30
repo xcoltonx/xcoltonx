@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xcoltonx
 - 👀 I’m interested in almost everything.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on anything fun.
+- 🌱 I’m working towards a CS degree while doing MITx and cs50x in my spare time.
+- 💞️ I’m looking to collaborate on anything challenging and fun.
 - 📫 How to reach me: here on github!
 
 <!---
