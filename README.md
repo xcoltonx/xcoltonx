@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcoltonx
 - 👀 I’m interested in almost everything.
-- 🌱 I’m working towards a CS degree and MITx and cs50x courses in my spare time.
+- 🌱 I’m working towards a CS degree.
 - 💞️ I’m looking to collaborate on anything challenging and fun.
 - 📫 How to reach me: here on github!
 
